@@ -1,0 +1,54 @@
+body{
+    
+    font: 1em sans-serif;
+    background-color: rgb(16, 11, 34);
+}
+h1,h5{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+
+    }
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(230, 56, 3, 0.925);
+}
+.container{
+    
+
+    
+}
+.wraper{
+    width: 750px;
+    background-color: rgb(12, 11, 14);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    
+
+    }
+.head{
+    position: relative;
+    padding-bottom: 20px;
+    padding-top: 60px;
+    padding-left: 20%;
+}
+.buttons{
+    position: relative;
+    bottom: 10px;
+    padding-left: 125px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+
+}
+.footer{
+    position: absolute;
+    top: 90%;
+    padding-left: 75%;
+}

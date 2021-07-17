@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(16, 11, 34);
+}
+p,h5{
+    color: white;
+}
+.wraper{
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%,-50%);
+    padding-top: 20px;
+
+}
+h2{
+    color: white;
+    position: absolute;
+    left: 30%;
+    top: 5%;
+    padding-bottom: 20%;
+}
+.cancel{
+    color: red;
+}
+.submit{
+    color: green;
+}
+.footer{
+    position: absolute;
+    top: 90%;
+    left: 80%;
+
+}
